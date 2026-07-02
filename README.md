@@ -1,5 +1,6 @@
 ## supercooling_exit_from_Q_supersaturation
-This repository contains codes that implement the ideas of my article ***"Supercooling exit from charge supersaturation"*** [arXiv:2512.16601].
+This repository contains a code that implements the ideas of my article ***"Supercooling exit from charge supersaturation"*** [arXiv:2512.16601].
+The code was created with the assistance of Claude (Anthropic)
 
 The paper deals with the thermodynamics of primordial plasma.
 
