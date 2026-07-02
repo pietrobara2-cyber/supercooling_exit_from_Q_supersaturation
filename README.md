@@ -32,7 +32,7 @@ We assign charge 1 to $\phi$, 1/2 to $\psi$ and -1/2 to $\chi$.
 ### Physics
 The code studies what happens when the temperature of the plasma becomes of order $m_\psi$. In presence of some Q-charge asymmetry, the chemical potential $\mu_Q$ can grow across the treshold, because all the charge excess gets redistributed in the $\phi$ sector. At the same time, the thermal mass of $\phi$ drops as a consequenco of $\psi$ decoupling.
 
-The two effects, combined, can induce condensation of $\phi$ when $\mu_Q=m_\phi^{(th)}$.
+The two effects, combined, can induce condensation of $\phi$ when $\mu_Q>m_\phi^{(th)}$.
 
 ### The code
 
