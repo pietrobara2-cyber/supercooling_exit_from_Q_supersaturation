@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21141439.svg)](https://doi.org/10.5281/zenodo.21141439)
 
-This repository contains a code that implements the ideas of my article ***"Supercooling exit from charge supersaturation"*** [arXiv:2512.16601].
+This repository contains a `python` code that implements the ideas of my article ***"Supercooling exit from charge supersaturation"*** [arXiv:2512.16601].
 The code was created with the assistance of Claude (Anthropic).
 
 The paper deals with the thermodynamics of primordial plasma.
