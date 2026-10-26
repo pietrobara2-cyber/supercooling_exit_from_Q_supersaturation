@@ -1,5 +1,7 @@
 # Supercooling exit from charge supersaturation — code and dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21141438.svg)](https://doi.org/10.5281/zenodo.21141438)
+
 This repository accompanies the article *Supercooling exit from charge
 supersaturation* by Pietro Baratella, Phys. Rev. D **114**, 063510 (2026),
 [doi:10.1103/q5ld-kg6w](https://doi.org/10.1103/q5ld-kg6w)
