@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/cache/
+.DS_Store
+.pytest_cache/
+.ipynb_checkpoints/
+ELABORAZIONI_MIE/
