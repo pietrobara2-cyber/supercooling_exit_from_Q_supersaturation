@@ -1,5 +1,7 @@
 cff-version: 1.2.0
-message: "If you use this code or dataset, please cite it as below, together with the article listed under references."
+message: >-
+  If you use this code or dataset, please cite it as below, together with the
+  article: P. Baratella, Phys. Rev. D 114, 063510 (2026), doi:10.1103/q5ld-kg6w.
 type: software
 title: "Supercooling exit from charge supersaturation: code and dataset"
 version: 2.0.0
@@ -8,36 +10,19 @@ authors:
     given-names: Pietro
     affiliation: "Jožef Stefan Institute, Ljubljana"
     orcid: "https://orcid.org/0000-0002-7891-8933"
-repository-code: "https://github.com/pietrobara2-cyber/supercooling_exit_from_Q_supersaturation"
-license:
-  - MIT
-  - CC-BY-4.0
+license: MIT
 abstract: >-
   Code and dataset for the exit temperature of cosmological supercooling
-  driven by charge supersaturation, in the model of Phys. Rev. D 114, 063510 (2026), arXiv:2512.16601. The
-  dataset, a CF-conventions NetCDF file, gives the first temperature at which
-  the condensation condition is met across the model's parameter space,
-  together with the two edges of its domain and a quality-control flag; a
-  test suite validates it against exact identities. The code is released
-  under the MIT licence, the dataset under CC-BY-4.0.
+  driven by charge supersaturation, in the model of Phys. Rev. D 114, 063510
+  (2026), doi:10.1103/q5ld-kg6w, arXiv:2512.16601. The dataset, a
+  CF-conventions NetCDF file, gives the first temperature at which the
+  condensation condition is met across the model's parameter space, together
+  with the two edges of its domain and a quality-control flag; a test suite
+  validates it against exact identities. The code is released under the MIT
+  licence, the dataset data/supercooling_exit.nc under CC-BY-4.0.
 keywords:
   - cosmological phase transitions
   - supercooling
   - thermal field theory
   - NetCDF
   - dataset
-references:
-  - type: article
-    title: "Supercooling exit from charge supersaturation"
-    authors:
-      - family-names: Baratella
-        given-names: Pietro
-        orcid: "https://orcid.org/0000-0002-7891-8933"
-    journal: "Physical Review D"
-    volume: 114
-    start: "063510"
-    year: 2026
-    doi: "10.1103/q5ld-kg6w"
-    identifiers:
-      - type: other
-        value: "arXiv:2512.16601"
