@@ -54,7 +54,7 @@ The paper studies a 'toy plasma' with the following particle content:
 
 On top of the electromagnetic interactions there are the couplings
 
-$$\mathcal{L}_1 = y\,\phi\,\overline\psi_i\chi_i + \text{c.c.}, \qquad \mathcal{L}_2 = \tfrac12\lambda'\,\varphi^2\phi\phi^*.$$
+$$\mathcal{L}_1 = y\phi\overline\psi_i\chi_i + \text{c.c.}, \qquad \mathcal{L}_2 = \tfrac12\lambda'\varphi^2\phi\phi^*.$$
 
 A global $U(1)$ symmetry with generator $Q$ leaves the interactions invariant:
 $\phi$ has charge 1, $\psi$ charge 1/2 and $\chi$ charge −1/2.
@@ -73,19 +73,19 @@ best expressed through $x = m_\psi/T$, which grows as the universe cools:
 - **the thermal mass**, $m_\phi^2/T^2 = \lambda'/24 + 4 N_f y^2 I_m(x)$. The
   first term comes from the $\varphi$ loop, the second from the $\psi$ loop, and
   $I_m$ dies off as $\psi$ decouples;
-- **the chemical potential**, $\mu_Q/T = (Q/S)\,\hat\mu(x; N_f)$. The charge per
+- **the chemical potential**, $\mu_Q/T = (Q/S)\hat\mu(x; N_f)$. The charge per
   unit entropy $Q/S$ is conserved as the universe expands; $\hat\mu$, the ratio
   of the entropy to the charge susceptibility of the plasma (Appendix of the
   paper), grows as $\psi$ decouples, because the charge it carried is pushed
   into the $\phi$ sector.
 
 The model therefore has four parameters, $(\lambda', y^2, N_f, Q/S)$, and
-condensation requires $(Q/S)\,\hat\mu(x) \ge \sqrt{\lambda'/24 + 4 N_f y^2 I_m(x)}$.
+condensation requires $(Q/S)\hat\mu(x) \ge \sqrt{\lambda'/24 + 4 N_f y^2 I_m(x)}$.
 Dividing both sides by $\sqrt{\lambda'/24}$ shows that only three combinations
 of them matter:
 
-$$\sigma \;\ge\; G(x;\rho,N_f) \equiv \frac{\sqrt{1+\rho\,I_m(x)}}{\hat\mu(x;N_f)},
-\qquad \sigma = \frac{Q}{S}\sqrt{\frac{24}{\lambda'}}, \qquad \rho = \frac{96\,N_f\,y^2}{\lambda'}.$$
+$$\sigma \ge G(x;\rho,N_f) \equiv \frac{\sqrt{1+\rho I_m(x)}}{\hat\mu(x;N_f)},
+\qquad \sigma = \frac{Q}{S}\sqrt{\frac{24}{\lambda'}}, \qquad \rho = \frac{96 N_f y^2}{\lambda'}.$$
 
 $\sigma$ is the reduced charge actually present; $G(x)$ is the reduced charge
 the condition requires at temperature $x$. The universe exits supercooling at
